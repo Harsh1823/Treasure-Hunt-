@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+}
+body{
+  background-color: #CAF0F8;
+
+}
+hr {
+  background-color: #CAF0F8;
+  height: 0;
+  width: 45%;
+  border-style:dotted none none;
+  border-color:purple;
+  border-width:8px;
+
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
